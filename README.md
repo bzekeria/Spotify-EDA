@@ -1,4 +1,7 @@
 # Spotify-EDA
+Performed an Exploratory Data Analysis on the respective owner's Spotify Top 50 songs history from 2019.
+
+Interactive viewing: https://nbviewer.jupyter.org/github/bzekeria/Spotify-EDA/blob/main/Spotify%202019%20Top%2050%20Songs.ipynb
 
 Dataset Info
 - Kaggle: Top 50 Spotify Songs- 2019 (https://www.kaggle.com/leonardopena/top50spotify2019)
