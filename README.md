@@ -5,6 +5,7 @@ Dataset Info
   - The owner of this dataset compiled their Spotify hisotry from Organize Your Music (http://organizeyourmusic.playlistmachinery.com)
 
 **Column Descriptions**
+
 0. Genre - the genre of the track
 1. Beats Per Minute (BPM) - The tempo of the song.
 2. Energy - The energy of a song - the higher the value, the more energtic. song
