@@ -5,7 +5,7 @@ Interactive viewing: https://nbviewer.jupyter.org/github/bzekeria/Spotify-EDA/bl
 
 Dataset Info
 - Kaggle: Top 50 Spotify Songs- 2019 (https://www.kaggle.com/leonardopena/top50spotify2019)
-  - The owner of this dataset compiled their Spotify hisotry from Organize Your Music (http://organizeyourmusic.playlistmachinery.com)
+  - The owner of this dataset compiled their Spotify history from Organize Your Music (http://organizeyourmusic.playlistmachinery.com)
 
 **Column Descriptions**
 
